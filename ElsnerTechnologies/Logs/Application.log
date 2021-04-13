@@ -1,0 +1,12 @@
+13 Apr 20:46:46,456 INFO - Chrome browser is opened 
+13 Apr 20:46:47,218 INFO - Chrome browser maximized 
+13 Apr 20:47:42,364 INFO - Click performed successfullyBy.xpath: //*[@id="ui-id-1"]/ul/li[5]/a 
+13 Apr 20:47:53,244 INFO - Data entered succesfullyBy.id: email 
+13 Apr 20:47:55,012 INFO - Data entered succesfullyBy.id: pass 
+13 Apr 20:48:25,376 INFO - Not Closing Browser 
+13 Apr 20:52:04,499 INFO - Chrome browser is opened 
+13 Apr 20:52:04,799 INFO - Chrome browser maximized 
+13 Apr 20:52:42,527 INFO - Click performed successfullyBy.xpath: //*[@id="ui-id-1"]/ul/li[5]/a 
+13 Apr 20:52:48,964 INFO - Data entered succesfullyBy.id: email 
+13 Apr 20:52:50,513 INFO - Data entered succesfullyBy.id: pass 
+13 Apr 20:53:21,068 INFO - Not Closing Browser 
